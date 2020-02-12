@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello world</title>
+        <title>Invoice</title>
+    </head>
+
+    <body>
+        <table border="1">
+            <table>
+            <td valign="top">
+                <img src="atta.jpg" alt="">
+                <p style="opacity: 0.5;">Company profile</p>
+            </td>
+            <td style="width: 100%; text-align: right;"  valign="top">
+                    <h1 style="opacity: 0.5;">INVOICE</h1>
+
+            <p>
+                Date: Date <br>
+                INVOICE# 100
+            </p>
+
+            <p>
+                Name <br>
+                Company Name<br>
+                Street address<br>
+                City, ZP SP Code<br>
+                Phone<br>
+                Customer ID ABC12345
+            </p>
+            </td>
+            </table>
+
+            <br>
+            <table width="100%">
+                <tr>
+                    <td>Salesperson</td>
+                    <td>Job</td>
+                    <td>Payment Terms</td>
+                    <td>Due Date</td>
+                </tr>
+
+                <tr>
+                    <td style="border: 1px solid black"></td>
+                    <td style="border: 1px solid black"></td>
+                    <td style="border: 1px solid black">Due on receipt</td>
+                    <td style="border: 1px solid black"></td>
+                </tr>
+
+            </table>
+            <br>
+              </table>
+            <table width="100%" cellpadding="10">
+            <tr>
+                <td>Qty</td>
+                <td>Description</td>
+                <td>Unit price</td>
+                <td>Line total</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+           </tr>
+           <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td> Subtotal</td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>Total Tax</td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td>Total</td>
+                <td style="border: 1px solid black"></td>
+            </tr>
+        </table>
+        <br>
+
+        <center>
+            <h3 style="opacity:0.5;">Make all checks payable to Company Name</h3>
+            <h3><b><i>Thank you for your business!</i></b></h3>
+            <br>
+            <h3 style="opacity:0.5;">Company Name Street Address City, ST ZIP Code Phone FaxFax Email</h3>
+        </center>
+    </body>
+
+</html>
