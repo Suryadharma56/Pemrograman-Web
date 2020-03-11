@@ -1,0 +1,9 @@
+li{
+    display: inline;
+    margin-right: 10px;
+}
+.menu{
+    border: 5px solid #cccccc;
+    padding: 20px;
+    width: 275px;
+}
