@@ -1,0 +1,88 @@
+.main-nav a {
+    display: inline-block;
+    text-align: right;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-size: 15px;
+    float: right;
+    padding: 60px 0px 20px 80px;
+}
+
+.main-title {
+    color: black;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 22px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    padding: 60px 60px 20px 0px;
+    text-decoration: none;
+}
+
+.image-1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.top-content{
+    padding: 0px 80px;
+}
+
+.end-minimo-section-3 .image-section-3 img {
+    width: 20px;
+    float: right;
+}
+
+.end-part-3 {
+    margin-left: 30px;
+    padding: 3px;
+    font-size: 12px;
+    position: relative;
+    color: #B8B8B8;
+    float: left;
+}
+
+.image-section-4 {
+    width: 320px;
+}
+
+.minimo-section-3 {
+    margin-bottom: 50px;
+}
+
+.minimo-section-4 {
+    padding: 50px 0 70px 0;
+    margin: 50px 0 50px 0;
+    background-color: #dedede;
+}
+
+.image-section-3-2 img {
+    margin-left: 10px;
+    width: 20px;
+}
+
+.sosial-footer {
+    margin-left: 15px;
+    float: right;
+}
+
+.main-footer {
+    float: left;
+    background-color: #dedede;
+    padding: 20px;
+}
+
+#section-9 {
+    margin-top: 100px;
+    background-color: #dedede;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: #606060;
+}
+
